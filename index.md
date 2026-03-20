@@ -1,5 +1,6 @@
 ---
 layout: none
+title: ""
 ---
 
 # Experimental site
