@@ -43,12 +43,11 @@ a {
 }
 
 .card {
-  border: 1px solid #bbbbbb;
+  border: 1px solid #8b8b8b;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
-  background: #a8a8a8;
-  color: black;
+  background: #707070;
 }
 
 .site-footer {
